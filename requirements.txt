@@ -1,0 +1,4 @@
+yt-dlp
+openai-whisper
+python-dotenv
+google-genai
